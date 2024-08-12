@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Zypeks
 - 👀 I’m interested in self improvement
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on anything dude
+- 👀 I’m looking to collaborate and learn new stuff
 - 📫 How to reach me message here
 
 <!---
